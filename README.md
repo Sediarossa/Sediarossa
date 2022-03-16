@@ -5,4 +5,5 @@
 
 ## 💻 Javascript Programmer
 <b> This is a Discord Bot i'm currently working on </b><br>
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Sediarossa&repo=Dani-Bot&theme=dark&hide_border=true)](https://github.com/Sediarossa/Dani-Bot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Sediarossa&repo=Dani-Bot&theme=react&hide_border=true)](https://github.com/Sediarossa/Dani-Bot)
+
